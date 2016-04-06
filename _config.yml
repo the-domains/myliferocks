@@ -1,14 +1,28 @@
+name: MyLifeRocks
+favicon: null
 layout_spectrum: 0.2081149
 typography_spectrum: 0.1387776
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3394543
-  lightness: 0.1056339
-  brandStrength: 0.6296608
-  rhythmicContrast: 0.03472724
   brandColors:
     - '#9D2D3C'
     - '#DDE4DD'
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-name: MyLifeRocks
+  brandStrength: 0
+  lightness: 0.1056339
+  saturation: 0.3394543
+  rhythmicContrast: 0.03472724
+purpose: []
